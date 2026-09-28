@@ -5,7 +5,7 @@ If you want to make your own addon, feel free to take a close look at Arsenal an
 
 # API
 The [API Repository](https://github.com/Truly-Modular/Modular-Item-API) can be found here
-Its a large Datadriven Modular Item APi, for more info check the API repository or ask on our [discord](https://discord.gg/TebNhbCAUP)
+Its a large Datadriven Modular Item APi, for more info check the API repository or ask on our [discord](https://discord.gg/dSvGfHmfdM)
 
 # Arsenal  
 [Repository](https://github.com/Truly-Modular/Arsenal)  
